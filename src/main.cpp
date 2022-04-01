@@ -1,3 +1,5 @@
+// https://exercism.org/tracks/cpp/exercises/collatz-conjecture
+
 #include<iostream>
 #include"../include/collatz.hpp"
 
